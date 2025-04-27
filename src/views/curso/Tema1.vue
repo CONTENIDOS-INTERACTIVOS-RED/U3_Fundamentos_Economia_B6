@@ -152,8 +152,8 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/12.png', alt='')
           .col-lg-8
-            h2.mb-4(data-aos="flip-up") Título
-            p.mb-4(data-aos="fade-right") Descripción
+            h2.mb-4(data-aos="flip-up") Escuela Marxista y Keynesiana 
+            p.mb-4(data-aos="fade-right") En el PDF Escuela Marxista y Keynesiana, se analizan dos enfoques fundamentales que han marcado la teoría económica: el marxismo, que critica la estructura del capitalismo y propone su transformación, y el keynesianismo, que defiende la intervención estatal para corregir sus fallas y evitar crisis económicas. A través de este estudio, se explorarán sus principios, impacto y relevancia en la formulación de políticas económicas contemporáneas.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
@@ -282,11 +282,11 @@
             h2.mb-4(data-aos="flip-up") Escuela institucionalista y conductista 
             p.mb-4(data-aos="fade-right") En el PDF Escuela institucionalista y conductista, se analizan dos corrientes que han transformado la comprensión de los mercados: el institucionalismo, que resalta el papel de las reglas, normas y estructuras en el desarrollo económico, y la economía conductual, que estudia cómo los sesgos cognitivos y las emociones influyen en la toma de decisiones. A través de este análisis, se explorará cómo estas perspectivas han impactado el diseño de políticas públicas y estrategias empresariales en la actualidad.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong> Título del anexo
+                p <strong>Anexo. </strong> Escuela institucionalista y conductista
     
 
     

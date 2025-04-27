@@ -137,7 +137,7 @@
               h2.mb-4(data-aos="flip-up") Impacto del riesgo país en la economía 
               p.mb-4(data-aos="fade-right") En el PDF Impacto del riesgo país en la economía, se analizan las principales consecuencias de una calificación de riesgo elevada, incluyendo el encarecimiento del financiamiento, la reducción de la inversión extranjera y la volatilidad del tipo de cambio. Además, se examinan las estrategias que los gobiernos pueden implementar para mitigar estos efectos y fortalecer la confianza en sus economías, promoviendo un desarrollo sostenible y estable.
       
-              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
