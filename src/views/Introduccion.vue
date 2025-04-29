@@ -5,11 +5,11 @@
 
     .row.mb-5
       .col-lg-8
-        p(data-aos="fade-left") Primer párrafo de texto
+        p(data-aos="fade-left") A lo largo de la historia, la economía ha evolucionado mediante distintas corrientes de pensamiento que han buscado explicar el funcionamiento de los mercados, la producción y la distribución de los recursos. Desde las teorías clásicas hasta enfoques contemporáneos como la economía conductual y la institucionalista, cada escuela de pensamiento ha contribuido al desarrollo de políticas económicas y estrategias empresariales que impactan la realidad actual. Comprender estas corrientes permite interpretar los fenómenos económicos desde diversas perspectivas, facilitando la toma de decisiones fundamentadas en el contexto global.
     
     
         .bg-color-5.p-4(data-aos="fade-left")
-          p.mb-0 Contenido de la caja de color
+          p.mb-0 En esta unidad se estudiarán las principales escuelas del pensamiento económico, incluyendo la clásica, neoclásica, marxista y keynesiana, así como enfoques más recientes como la tradición desarrollista, la escuela austriaca, la neoschumpeteriana, la institucionalista y la conductista. Se analizarán sus postulados fundamentales, sus principales representantes y su influencia en la formulación de políticas económicas. Asimismo, se abordará el concepto de riesgo país, explorando los factores económicos, políticos y sociales que lo determinan y su impacto en la estabilidad económica y la inversión.
     
       .col-lg-4
         figure
@@ -27,8 +27,8 @@
             .col-lg-auto
               img(src="@/assets/curso/tema1/icono-1.svg", style="max-width: 90px").mx-auto
             .col-lg
-              h5.mb-2 Título bloque 1
-              p.mb-0 Contenido bloque 1
+              h5.mb-2 Primera
+              p.mb-0 Se examinarán las escuelas del pensamiento económico y su evolución histórica.
     
       .col-lg-4
         .bg-color-6.p-4(data-aos="fade-left").h-100
@@ -36,8 +36,8 @@
             .col-lg-auto
               img(src="@/assets/curso/tema1/icono-1.svg", style="max-width: 90px").mx-auto
             .col-lg
-              h5.mb-2 Título bloque 2
-              p.mb-0 Contenido bloque 2
+              h5.mb-2 Segunda
+              p.mb-0 Se analizará la aplicación de estos enfoques en el contexto actual.
     
 
       .col-lg-4
@@ -46,8 +46,8 @@
             .col-lg-auto
               img(src="@/assets/curso/tema1/icono-1.svg", style="max-width: 90px").mx-auto
             .col-lg
-              h5.mb-2 Título bloque 2
-              p.mb-0 Contenido bloque 2
+              h5.mb-2 Tercera
+              p.mb-0 Se estudiará la calificación del riesgo país y su relevancia para la economía global.
 
 
     .bg-full-width.bg-color-1

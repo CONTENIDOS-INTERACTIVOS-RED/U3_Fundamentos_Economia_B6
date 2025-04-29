@@ -7,7 +7,7 @@
         .row.justify-content-center.align-items-center
           .col-lg
             .p-4
-              p.mb-0(data-aos="fade-up") El riesgo país es un indicador fundamental en la economía global, que mide la capacidad de un país para cumplir con sus obligaciones financieras y honrar su deuda externa. Este concepto es crucial para inversionistas, organismos financieros internacionales y gobiernos, porque permite evaluar el nivel de estabilidad económica y política de una nación y determinar las condiciones en las que puede acceder a financiamiento externo (María O’Kean, 2015).
+              p.mb-0(data-aos="fade-up") El riesgo país es un indicador fundamental en la economía global, que mide la capacidad de un país para cumplir con sus obligaciones financieras y honrar su deuda externa. Este concepto es crucial para inversionistas, organismos financieros internacionales y gobiernos, porque permite evaluar el nivel de estabilidad económica y política de una nación y determinar las condiciones en las que puede acceder a financiamiento externo (María O'Kean, 2015).
           .col-lg-auto
             figure
               img(src='@/assets/curso/tema2/1.png', alt='')
@@ -40,7 +40,7 @@
             .col-lg-auto
               img(src="@/assets/curso/tema2/2.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Las agencias internacionales de calificación de riesgo, como Standard & Poor’s (S&P), Moody’s y Fitch Ratings, son las encargadas de evaluar el nivel de riesgo de cada país y asignar calificaciones que reflejan su capacidad de pago y la probabilidad de incumplimiento de una deuda. Estas calificaciones van desde las más altas, como AAA, que indican un bajo riesgo de impago y una economía estable, hasta las más bajas, como CCC o D, que representan una alta probabilidad de crisis financiera y posible incumplimiento de pagos.
+              p.mb-0 Las agencias internacionales de calificación de riesgo, como Standard & Poor's (S&P), Moody's y Fitch Ratings, son las encargadas de evaluar el nivel de riesgo de cada país y asignar calificaciones que reflejan su capacidad de pago y la probabilidad de incumplimiento de una deuda. Estas calificaciones van desde las más altas, como AAA, que indican un bajo riesgo de impago y una economía estable, hasta las más bajas, como CCC o D, que representan una alta probabilidad de crisis financiera y posible incumplimiento de pagos.
 
       
       .row.mb-5
@@ -98,8 +98,8 @@
       
           LineaTiempoD.color-primario.large.verde(data-aos="fade-left")
             p(numero="1" titulo="Estabilidad política e institucional") Los gobiernos con instituciones sólidas, reglas claras y bajos niveles de corrupción, tienden a generar mayor confianza en los mercados financieros, dado que ofrecen previsibilidad y seguridad jurídica para las inversiones. En contraste, los países con conflictos internos, inestabilidad política o sistemas de gobierno con baja credibilidad, suelen enfrentar mayores niveles de riesgo, pues la incertidumbre sobre el futuro de sus políticas económicas desincentiva la inversión y puede generar fuga de capitales. Situaciones como golpes de Estado, cambios abruptos en la legislación económica, crisis de gobernabilidad o violaciones al Estado de derecho, incrementan la percepción de riesgo y afectan directamente la calificación del país en los mercados internacionales.
-            p(numero="2" titulo="Título paso 2") Contenido paso 2
-            p(numero="3" titulo="Título paso 3") Contenido paso 3
+            p(numero="2" titulo="Crecimiento económico") Es otro factor clave que influye en la percepción del riesgo país. Un país con tasas sostenidas de crecimiento del Producto Interno Bruto (PIB), muestra una economía dinámica, con mayor capacidad para generar ingresos fiscales, reducir el desempleo y cumplir con sus obligaciones financieras. Cuando un país mantiene un crecimiento estable, los inversionistas perciben que hay oportunidades de negocio y que el Estado tendrá recursos suficientes para pagar su deuda externa. Sin embargo, cuando la economía entra en recesión o el crecimiento es insuficiente para cubrir las necesidades de financiamiento del gobierno, la confianza en la capacidad de pago del país, disminuye. En estos casos, los mercados internacionales pueden exigir tasas de interés más elevadas para compensar el riesgo, encareciendo el costo del financiamiento, tanto para el sector público como para el privado.
+            p(numero="3" titulo="La inflación y la estabilidad") La inflación y la estabilidad del tipo de cambio también juegan un papel determinante en la evaluación del riesgo país. La inflación elevada deteriora el poder adquisitivo de la población y genera desconfianza en la moneda local, lo que puede llevar a la dolarización parcial de la economía o a la fuga de capitales. Una inflación descontrolada refleja problemas estructurales en la política económica y puede hacer que los inversionistas se alejen de un país debido a la incertidumbre sobre la estabilidad de precios. Asimismo, la volatilidad del tipo de cambio afecta la confianza de los mercados, especialmente cuando un país tiene una alta proporción de su deuda denominada en moneda extranjera. Una devaluación abrupta de la moneda nacional, puede encarecer los pagos de deuda externa y dificultar la obtención de financiamiento en los mercados internacionales.
 
 
       .row.align-items-center.mb-5
@@ -107,9 +107,10 @@
 
       
           LineaTiempoD.color-primario.large.verde(data-aos="fade-right")
-            p(numero="1" titulo="Nivel de endeudamiento externo") Un país con altos niveles de deuda en relación con su PIB, es percibido como más riesgoso, puesto que su margen de maniobra fiscal es reducido y su capacidad de pago depende, en gran medida, de la obtención de nuevos créditos. Cuando un país acumula demasiada deuda sin un plan claro de sostenibilidad fiscal, puede entrar en un círculo vicioso de financiamiento caro y creciente presión sobre su presupuesto. Si la deuda se vuelve insostenible, el país podría enfrentar un default soberano, lo que afectaría su calificación crediticia y su acceso a financiamiento futuro. Además, la dependencia excesiva de la deuda externa expone al país a riesgos adicionales, como el impacto de cambios en las tasas de interés internacionales o la reducción del acceso a capital en tiempos de crisis global.
-            p(numero="2" titulo="Título paso 2") Contenido paso 2
-            p(numero="3" titulo="Título paso 3") Contenido paso 3
+            p(numero="4" titulo="Nivel de endeudamiento externo") Un país con altos niveles de deuda en relación con su PIB, es percibido como más riesgoso, puesto que su margen de maniobra fiscal es reducido y su capacidad de pago depende, en gran medida, de la obtención de nuevos créditos. Cuando un país acumula demasiada deuda sin un plan claro de sostenibilidad fiscal, puede entrar en un círculo vicioso de financiamiento caro y creciente presión sobre su presupuesto. Si la deuda se vuelve insostenible, el país podría enfrentar un default soberano, lo que afectaría su calificación crediticia y su acceso a financiamiento futuro. Además, la dependencia excesiva de la deuda externa expone al país a riesgos adicionales, como el impacto de cambios en las tasas de interés internacionales o la reducción del acceso a capital en tiempos de crisis global.
+            p(numero="5" titulo="La gestión gubernamental y la política fiscal") También desempeñan un papel fundamental en la determinación del riesgo país. Un gobierno que administra eficientemente sus recursos, mantiene un presupuesto equilibrado y aplica políticas económicas coherentes puede reducir la percepción de riesgo y mejorar su calificación crediticia. En cambio, una mala administración de los recursos públicos, déficits fiscales persistentes o políticas económicas inconsistentes pueden aumentar la incertidumbre sobre la capacidad del país para manejar sus finanzas. Los gobiernos que implementan medidas de ajuste fiscal sin una estrategia clara o que dependen excesivamente de la emisión de deuda para cubrir su gasto público, pueden perder la confianza de los inversionistas y enfrentar dificultades para acceder a financiamiento en términos favorables.
+            p(numero="6" titulo="Los factores externos") También influyen significativamente en el riesgo país. La globalización financiera ha hecho que las economías sean más interdependientes, por lo que un país puede verse afectado por factores que escapan a su control, como cambios en las tasas de interés internacionales, crisis financieras globales o variaciones en los precios de los commodities. Las economías emergentes, en particular, son más vulnerables a estos efectos, porque muchas dependen de la exportación de materias primas y de la inversión extranjera para sostener su crecimiento. Una caída en los precios del petróleo, los metales o los productos agrícolas, puede reducir drásticamente los ingresos fiscales de un país y afectar su capacidad de pago, lo que incrementa su percepción de riesgo en los mercados internacionales.
+            p(numero="7" titulo="Calidad del sistema financiero y bancario") Un sistema financiero sólido, con bancos bien capitalizados y regulaciones prudentes, contribuye a la estabilidad económica y reduce la probabilidad de crisis bancarias. En cambio, un sistema financiero débil, con instituciones vulnerables a shocks externos o problemas de liquidez, puede incrementar el riesgo de crisis económicas y generar incertidumbre sobre la capacidad del país para sostener su crecimiento. La salud del sector bancario también influye en la disponibilidad de crédito para las empresas y los consumidores, lo que a su vez afecta la inversión y el dinamismo económico.
         .col-lg-4.order-1.order-lg-2
           figure
             img(src="@/assets/curso/tema2/7.png", alt="", data-aos="zoom-in").mb-4.mb-lg-0
@@ -135,7 +136,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-8
               h2.mb-4(data-aos="flip-up") Impacto del riesgo país en la economía 
-              p.mb-4(data-aos="fade-right") En el PDF Impacto del riesgo país en la economía, se analizan las principales consecuencias de una calificación de riesgo elevada, incluyendo el encarecimiento del financiamiento, la reducción de la inversión extranjera y la volatilidad del tipo de cambio. Además, se examinan las estrategias que los gobiernos pueden implementar para mitigar estos efectos y fortalecer la confianza en sus economías, promoviendo un desarrollo sostenible y estable.
+              p.mb-4(data-aos="fade-right") En el PDF #[strong Impacto del riesgo país en la economía], se analizan las principales consecuencias de una calificación de riesgo elevada, incluyendo el encarecimiento del financiamiento, la reducción de la inversión extranjera y la volatilidad del tipo de cambio. Además, se examinan las estrategias que los gobiernos pueden implementar para mitigar estos efectos y fortalecer la confianza en sus economías, promoviendo un desarrollo sostenible y estable.
       
               a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
@@ -163,15 +164,19 @@
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/41176" target="_blank" rel="noopener noreferrer") Olivera Novelo, J. (2015). Fundamentos de economía: ( ed.). Editorial Digital UNID. 
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/50065" target="_blank" rel="noopener noreferrer") Tugores Ques, J. (2005). Economía internacional: ( ed.). McGraw-Hill España. 
+
+              p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/61634" target="_blank" rel="noopener noreferrer") Barea, M. (2013). Globalización y nueva economía: ( ed.). Ediciones Encuentro, S.A. 
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+                a(href="https://www.youtube.com/watch?v=DpSOmDuyc6w" target="_blank" rel="noopener noreferrer") videoconferencias. (2013, 28 de mayo). UTPL PRECURSORES DE LA ESCUELA CLÁSICA (ECONOMÍA)( HISTORIA DEL PENSAMIENTO ECONÓMICO)]. 
   
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure
@@ -188,7 +193,8 @@ export default {
   data() {
     return {
       cuestionario: {
-        tema: 'Herramientas colaborativas para la construcción de paz',
+        tema:
+          'Corrientes de pensamiento económico y evaluación del riesgo país',
         titulo: 'Ponte a prueba',
         introduccion:
           'Demuestra lo que aprendiste en esta unidad y pon a prueba tus conocimientos.',
@@ -197,162 +203,184 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              '¿Cuál es una de las principales ideas de la escuela clásica de pensamiento económico?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto:
+                  'La intervención del Estado es esencial para la estabilidad económica.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
+                texto:
+                  'Los mercados tienden al equilibrio sin necesidad de regulación estatal.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto:
+                  'El consumo y la inversión dependen exclusivamente del gobierno.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto:
+                  'El crecimiento económico solo es posible mediante el control estatal de la producción.',
                 esCorrecta: false,
               },
             ],
-            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+            mensaje_correcto:
+              '¡Correcto! La escuela clásica, con representantes como Adam Smith y David Ricardo, sostiene que los mercados pueden autorregularse gracias a la competencia y la interacción entre oferta y demanda.',
+            mensaje_incorrecto:
+              'Lo sentimos, su respuesta no es correcta. La escuela clásica enfatiza la autorregulación de los mercados.',
           },
           {
             id: 2,
             texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+              'Según la teoría keynesiana, ¿qué medida debe tomar el gobierno en épocas de recesión?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
+                texto: 'Aumentar el gasto público para estimular la demanda.',
                 esCorrecta: true,
               },
               {
+                id: 'b',
+                texto: 'Reducir la inversión en infraestructura.',
+                esCorrecta: false,
+              },
+              {
                 id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
+                texto: 'Disminuir la oferta de dinero en circulación.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                texto: 'Permitir que el mercado se recupere sin intervención.',
                 esCorrecta: false,
               },
             ],
-            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+            mensaje_correcto:
+              '¡Correcto! John Maynard Keynes argumentó que en tiempos de crisis económica, el Estado debe intervenir aumentando el gasto público para estimular la demanda y reducir el desempleo.',
+            mensaje_incorrecto:
+              'Lo sentimos, su respuesta no es correcta. La teoría keynesiana propone la intervención estatal activa durante las recesiones.',
           },
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              '¿Cuál de los siguientes factores es determinante en la calificación de riesgo país?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
+                texto: 'La moda y las tendencias de consumo.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
+                texto: 'La estabilidad política y la seguridad jurídica.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Determinar la culpabilidad',
+                texto: 'El número de empresas tecnológicas en el país.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                texto: 'La cantidad de exportaciones agrícolas.',
                 esCorrecta: false,
               },
             ],
-            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+            mensaje_correcto:
+              '¡Correcto! La calificación de riesgo país está influenciada por factores como la estabilidad política, la capacidad del gobierno para cumplir sus obligaciones financieras y la confianza en sus instituciones.',
+            mensaje_incorrecto:
+              'Lo sentimos, su respuesta no es correcta. La estabilidad política y jurídica son factores clave en la calificación de riesgo país.',
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto:
+              '¿Cuál es una característica de la escuela neoschumpeteriana?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
+                texto:
+                  'Sostiene que los monopolios impulsan el crecimiento económico.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
+                texto:
+                  'Destaca la importancia de la innovación y la destrucción creativa.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto:
+                  'Plantea que el Estado debe eliminar toda regulación económica.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto:
+                  'Propone que el comercio internacional debe ser limitado.',
                 esCorrecta: false,
               },
             ],
-            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+            mensaje_correcto:
+              '¡Correcto! La escuela neoschumpeteriana, basada en las ideas de Joseph Schumpeter, enfatiza cómo la innovación tecnológica y empresarial impulsa el desarrollo económico mediante la "destrucción creativa".',
+            mensaje_incorrecto:
+              'Lo sentimos, su respuesta no es correcta. La escuela neoschumpeteriana se centra en la innovación y la destrucción creativa.',
           },
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              '¿Cuál es una posible consecuencia de una alta calificación de riesgo país?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
+                texto:
+                  'Menores tasas de interés para acceder a financiamiento externo.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
-                esCorrecta: true,
+                texto: 'Aumento en la inversión extranjera directa.',
+                esCorrecta: false,
               },
               {
                 id: 'c',
-                texto: 'Castigar a las partes involucradas',
-                esCorrecta: false,
+                texto:
+                  'Reducción de la confianza en la economía y encarecimiento del crédito.',
+                esCorrecta: true,
               },
               {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto:
+                  'Mayor estabilidad en los mercados financieros nacionales.',
                 esCorrecta: false,
               },
             ],
-            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+            mensaje_correcto:
+              '¡Correcto! Una alta calificación de riesgo país indica incertidumbre económica y política, lo que provoca una menor confianza en la economía, dificultando el acceso a financiamiento externo y aumentando los costos del crédito.',
+            mensaje_incorrecto:
+              'Lo sentimos, su respuesta no es correcta. Una alta calificación de riesgo país tiene efectos negativos en la confianza económica y el acceso al crédito.',
           },
         ],
         mensaje_final_aprobado:
-          '¡Felicidades! Has superado la prueba con éxito.',
+          '¡Felicitaciones! Has demostrado un buen entendimiento de las escuelas de pensamiento económico y el riesgo país.',
         mensaje_final_reprobado:
-          'Te recomendamos repasar nuevamente la unidad para reforzar los conceptos clave antes de volver a intentarlo.',
+          'Te recomendamos repasar los conceptos sobre las escuelas económicas y el riesgo país antes de volver a intentarlo.',
       },
     }
   },

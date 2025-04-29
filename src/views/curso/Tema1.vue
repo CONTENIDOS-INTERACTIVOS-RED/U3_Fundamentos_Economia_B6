@@ -4,12 +4,12 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     .row.mb-5
-      .col-lg-5
+      .col-lg-4
         figure
           img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in")
-      .col-lg-7
+      .col-lg-8
 
-        p(data-aos="fade-left").mb-4 Contenido del primer párrafo
+        p(data-aos="fade-left").mb-4 Las diferentes corrientes económicas han surgido en respuesta a los desafíos económicos y sociales de cada época, influyendo en la manera en que los gobiernos, las empresas y los individuos toman decisiones. A lo largo de la historia, las teorías económicas han evolucionado a medida que las sociedades enfrentan cambios estructurales, desde la Revolución Industrial hasta la globalización moderna. Cada escuela de pensamiento económico ofrece una perspectiva distinta sobre el funcionamiento de los mercados, la distribución de la riqueza, el crecimiento económico y el papel del Estado en la economía. Estas ideas han dado forma a las políticas económicas que han guiado a los países en distintos momentos, determinando el rumbo de su desarrollo (Acemoglu, Laibson & List, 2017).
     
         .bg-color-1.p-4
           .row.align-items-center
@@ -25,7 +25,7 @@
 
     .row.mb-5
       .col-lg-8
-        p(data-aos="fade-left").mb-4 Contenido del primer párrafo
+        p(data-aos="fade-left").mb-4 La escuela clásica de economía, surgió en el siglo XVIII y es considerada la base del pensamiento económico moderno. Su desarrollo estuvo influenciado por el auge del comercio internacional, la Revolución Industrial y los cambios en la organización económica de las sociedades occidentales.
     
     
         .bg-color-6.p-4(data-aos="fade-left").mb-4
@@ -33,9 +33,9 @@
             .col-lg-auto
               img(src="@/assets/curso/tema1/3.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Contenido del bloque con icono
+              p.mb-0 Sus principales exponentes, Adam Smith, David Ricardo y John Stuart Mill, sentaron las bases del liberalismo económico al sostener que los mercados, si se dejan operar libremente, tienden al equilibrio y generan el máximo bienestar social. Esta escuela de pensamiento defendía la mínima intervención del Estado en los asuntos económicos, argumentando que los individuos, en la búsqueda de su propio beneficio, terminan favoreciendo a la sociedad en su conjunto.
     
-        p(data-aos="fade-left").mb-4 Contenido del segundo párrafo
+        p(data-aos="fade-left").mb-4 Conozcamos un poco más sobre sus exponentes:
     
       .col-lg-4
         figure
@@ -51,22 +51,22 @@
               figure
                 img(src="@/assets/curso/tema1/slide-1.png")
             .col-lg-7
-              h5 Título del slide 1
-              p Contenido del slide 1
+              h5 Adam Smith
+              p En su obra La riqueza de las naciones (1776), introdujo el concepto de la “mano invisible”, una metáfora que explica cómo los individuos, al actuar en función de su propio interés, generan resultados positivos para toda la economía, sin necesidad de una intervención estatal directa. Según esta teoría, los mercados pueden autorregularse a través de la interacción de la oferta y la demanda, permitiendo que los precios se ajusten de manera natural. Smith también defendió la división del trabajo como un factor clave para aumentar la eficiencia productiva, dado que permitía la especialización de los trabajadores, la mejora en los procesos productivos y la reducción de costos. (Eggers, 2018).
           .row.align-items-center.p-4.p-md-5
             .col-lg-5
               figure
                 img(src="@/assets/curso/tema1/slide-2.png")
             .col-lg-7
-              h5 Título del slide 2
-              p Contenido del slide 2
+              h5 David Ricardo
+              p Profundizó en la distribución de la riqueza y el comercio internacional, con su teoría de la ventaja comparativa. Argumentó que los países deberían especializarse en la producción de aquellos bienes en los que tienen menores costos de producción en relación con otros países, lo que maximizaría la eficiencia global del comercio y beneficiaría a todas las naciones involucradas. La ventaja comparativa sigue siendo un principio fundamental en la economía moderna y justifica la liberalización del comercio internacional.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5
               figure
                 img(src="@/assets/curso/tema1/slide-3.png")
             .col-lg-7
-              h5 Título del slide 3
-              p Contenido del slide 3
+              h5 John Stuart Mill
+              p Amplió estas ideas al incorporar reflexiones sobre la justicia social y el papel del Estado en la economía. Aunque seguía la tradición clásica de defensa de los mercados libres, reconoció que, en algunos casos, la intervención estatal era necesaria para corregir desigualdades económicas y garantizar condiciones equitativas para todos los participantes en la economía. Mill enfatizó la importancia de las instituciones democráticas y la educación como herramientas para mejorar la equidad y el desarrollo económico a largo plazo.
     
     
 
@@ -85,12 +85,12 @@
               img(src="@/assets/curso/tema1/6.svg", alt="", data-aos="zoom-in").mb-4.mb-lg-0
         
 
-          .col-lg-7
+          .col-lg-7.mb-5
         
             LineaTiempoD.color-primario.large(data-aos="fade-right")
-              p(numero="1" titulo="Título paso 1") Contenido paso 1
-              p(numero="2" titulo="Título paso 2") Contenido paso 2
-              p(numero="3" titulo="Título paso 3") Contenido paso 3
+              p(numero="1" titulo="Paso 1") Economistas como William Stanley Jevons, Carl Menger y Léon Walras, fueron pioneros en la introducción del concepto de utilidad marginal, el cual explica cómo los consumidores asignan sus recursos en función de la satisfacción adicional que obtienen al consumir una unidad extra de un bien o servicio. Esta teoría permitió una mejor comprensión de la formación de los precios y la manera en que los consumidores toman decisiones económicas.
+              p(numero="2" titulo="Paso 2") Alfred Marshall, en su obra Principios de Economía (1890), desarrolló el análisis de la oferta y la demanda, estableciendo que el precio de un bien se determina en la intersección de estas dos fuerzas. Su trabajo introdujo herramientas analíticas fundamentales para el desarrollo de la microeconomía, centrándose en el comportamiento de los consumidores y las empresas como agentes individuales dentro del mercado. Marshall también hizo aportes al concepto de elasticidad, que mide la sensibilidad de la demanda y la oferta ante cambios en los precios (Eggers, 2018).
+              p(numero="3" titulo="Paso 3") Los economistas neoclásicos enfatizaron la importancia de la competencia como mecanismo para lograr una asignación eficiente de los recursos. En un mercado competitivo, los productores buscan maximizar sus beneficios al ofrecer bienes y servicios de mejor calidad y a precios competitivos, lo que impulsa la innovación y el crecimiento económico. Desde esta perspectiva, la intervención estatal en la economía, debe ser mínima, pues cualquier regulación excesiva puede distorsionar los incentivos y generar ineficiencias en los mercados.
 
 
 
@@ -123,12 +123,12 @@
                   img(src="@/assets/curso/tema1/9.svg").mx-auto
                 .col-lg
                   .py-4
-                    p.mb-0 Estas pruebas pueden ser adquiridas a proveedores o desarrolladas internamente. Es fundamental que aporten valor al proceso y sean acordes con los requerimientos del perfil.
+                    p.mb-0 Sus principios fundamentan muchas de las políticas económicas adoptadas por países alrededor del mundo y continúan siendo objeto de estudio y debate en la academia. No obstante, las crisis económicas y los desafíos globales, como la desigualdad social y el cambio climático, han dado lugar a nuevas corrientes de pensamiento que cuestionan la idea de que los mercados pueden autorregularse sin intervención estatal.
             .bg-color-11.px-4
               .row.align-items-center
                 .col-lg
                   .py-4
-                    p.mb-0 Estas pruebas pueden ser adquiridas a proveedores o desarrolladas internamente. Es fundamental que aporten valor al proceso y sean acordes con los requerimientos del perfil.
+                    p.mb-0 Esto ha impulsado el desarrollo de enfoques más intervencionistas, como el keynesianismo y la economía del bienestar, que buscan combinar los principios del libre mercado con mecanismos de regulación y redistribución que favorezcan el equilibrio económico y la estabilidad social.
                 .col-lg-auto
                   img(src="@/assets/curso/tema1/10.svg").mx-auto
 
@@ -153,13 +153,13 @@
               img(src='@/assets/curso/tema1/12.png', alt='')
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Escuela Marxista y Keynesiana 
-            p.mb-4(data-aos="fade-right") En el PDF Escuela Marxista y Keynesiana, se analizan dos enfoques fundamentales que han marcado la teoría económica: el marxismo, que critica la estructura del capitalismo y propone su transformación, y el keynesianismo, que defiende la intervención estatal para corregir sus fallas y evitar crisis económicas. A través de este estudio, se explorarán sus principios, impacto y relevancia en la formulación de políticas económicas contemporáneas.
+            p.mb-4(data-aos="fade-right") En el PDF #[strong Escuela Marxista y Keynesiana], se analizan dos enfoques fundamentales que han marcado la teoría económica: el marxismo, que critica la estructura del capitalismo y propone su transformación, y el keynesianismo, que defiende la intervención estatal para corregir sus fallas y evitar crisis económicas. A través de este estudio, se explorarán sus principios, impacto y relevancia en la formulación de políticas económicas contemporáneas.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong> Título del anexo
+                p <strong>Anexo. </strong> Escuela Marxista y Keynesiana.
 
     
     #t_1_3.titulo-segundo(data-aos="flip-up")
@@ -192,9 +192,9 @@
 
     
         LineaTiempoD.color-primario.large.verde(data-aos="fade-left")
-          p(numero="1" titulo="Título paso 1") Contenido paso 1
-          p(numero="2" titulo="Título paso 2") Contenido paso 2
-          p(numero="3" titulo="Título paso 3") Contenido paso 3
+          p(numero="1" titulo="Ludwig von Mises") En su obra La acción humana (1949), defendió el concepto de praxeología, que sostiene que la economía debe ser estudiada desde el punto de vista de la acción humana individual, en lugar de a través de modelos matemáticos abstractos. Mises criticó el socialismo y la planificación centralizada, argumentando que, sin un sistema de precios libre, los planificadores económicos no podrían asignar recursos de manera eficiente, lo que llevaría al desperdicio y a la falta de innovación.
+          p(numero="2" titulo="Friedrich Hayek") En Camino de servidumbre (1944), advirtió sobre los peligros del intervencionismo estatal y la planificación económica. Para Hayek, cualquier intento de controlar el mercado inevitablemente conduce a la pérdida de libertades individuales y a la formación de sistemas autoritarios. Defendió el libre mercado como el mecanismo más eficiente para coordinar los recursos y fomentar el crecimiento económico. Además, introdujo la noción de “orden espontáneo”, según la cual las instituciones económicas y sociales emergen de manera natural a través de la interacción de los individuos sin necesidad de una regulación gubernamental (Godelier, 2012).
+          p(numero="3" titulo="Teoría del ciclo económico") Uno de los aportes más relevantes de la escuela austriaca es su teoría del ciclo económico, que explica cómo las expansiones artificiales del crédito, promovidas por los bancos centrales a través de tasas de interés bajas, generan burbujas económicas insostenibles que eventualmente colapsan, provocando crisis financieras. Según esta teoría, los períodos de auge económico impulsados por políticas monetarias expansivas conducen a una mala asignación de recursos y a un sobreendeudamiento, lo que inevitablemente desemboca en recesiones profundas cuando el mercado intenta corregir los desequilibrios generados.
     
 
     .bg-full-width.bg-color-info.mb-5
@@ -214,29 +214,29 @@
               figure
                 img(src="@/assets/curso/tema1/slide-1-2.png")
             .col-lg-7.order-lg-1
-              h5 Título del slide 1
-              p Contenido del slide 1
+              h5 Joseph Schumpeter
+              p Economista de origen austríaco, propuso una visión dinámica del capitalismo en la que el cambio y la transformación son elementos esenciales para el desarrollo de los mercados. En su obra Capitalismo, socialismo y democracia (1942), Schumpeter introdujo el concepto de “destrucción creativa”, que describe el proceso mediante el cual las innovaciones tecnológicas y organizativas reemplazan estructuras económicas obsoletas, generando crecimiento y eficiencia (Godelier, 2012).
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-lg-2
               figure
                 img(src="@/assets/curso/tema1/slide-2-2.png")
             .col-lg-7.order-lg-1
-              h5 Título del slide 2
-              p Contenido del slide 2
+              h5 Escuela neoschumpeteriana
+              p Expande esta idea al considerar que la innovación no solo se limita al ámbito tecnológico, sino que también incluye cambios en los modelos de negocio, en las estructuras de mercado y en la gestión empresarial. Desde esta perspectiva, el progreso económico no ocurre de manera uniforme, sino a través de ciclos de disrupción y adaptación. Los avances en industrias como la informática, la biotecnología y la energía renovable han demostrado que la destrucción creativa sigue siendo un fenómeno clave en la evolución de la economía moderna.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-lg-2
               figure
                 img(src="@/assets/curso/tema1/slide-3-2.png")
             .col-lg-7.order-lg-1
-              h5 Título del slide 3
-              p Contenido del slide 3
+              h5 Papel del emprendedor
+              p Para Schumpeter, el papel del emprendedor es fundamental en este proceso, porque es el agente que introduce innovaciones y desafía el statu quo. A diferencia de las teorías económicas tradicionales, que consideran a las empresas como entidades que buscan maximizar beneficios dentro de un entorno estable, la visión neoschumpeteriana sostiene que las empresas más exitosas son aquellas que logran reinventarse constantemente y adaptarse a los cambios del mercado.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-lg-2
               figure
                 img(src="@/assets/curso/tema1/slide-4-2.png")
             .col-lg-7.order-lg-1
-              h5 Título del slide 4
-              p Contenido del slide 4
+              h5 nversión en investigación y desarrollo (I+D)
+              p Los neoschumpeterianos también destacan la importancia de la inversión en investigación y desarrollo (I+D) como factor determinante del crecimiento a largo plazo. En un mundo donde la tecnología avanza rápidamente, las economías que promueven la innovación y el desarrollo científico tienden a generar mayor riqueza y bienestar. Esto ha llevado a que muchos países implementen políticas de estímulo a la innovación, como incentivos fiscales para la inversión en tecnología y la creación de ecosistemas de emprendimiento.
     
 
     .row.mb-5
@@ -280,7 +280,7 @@
     
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Escuela institucionalista y conductista 
-            p.mb-4(data-aos="fade-right") En el PDF Escuela institucionalista y conductista, se analizan dos corrientes que han transformado la comprensión de los mercados: el institucionalismo, que resalta el papel de las reglas, normas y estructuras en el desarrollo económico, y la economía conductual, que estudia cómo los sesgos cognitivos y las emociones influyen en la toma de decisiones. A través de este análisis, se explorará cómo estas perspectivas han impactado el diseño de políticas públicas y estrategias empresariales en la actualidad.
+            p.mb-4(data-aos="fade-right") En el PDF #[strong Escuela institucionalista y conductista], se analizan dos corrientes que han transformado la comprensión de los mercados: el institucionalismo, que resalta el papel de las reglas, normas y estructuras en el desarrollo económico, y la economía conductual, que estudia cómo los sesgos cognitivos y las emociones influyen en la toma de decisiones. A través de este análisis, se explorará cómo estas perspectivas han impactado el diseño de políticas públicas y estrategias empresariales en la actualidad.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
@@ -300,15 +300,19 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/51673" target="_blank" rel="noopener noreferrer") Oñoro Martínez, R. C. (2012). Estado y economía política: ( ed.). B - EUMED. 
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/49120" target="_blank" rel="noopener noreferrer") Torres López, J. A. (2016). Economía política: (5 ed.). Difusora Larousse - Ediciones Pirámide.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/59660" target="_blank" rel="noopener noreferrer") Perdices de Blas, L. (2006). Economía y literatura: ( ed.). Ecobook - Editorial del Economista. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=DpSOmDuyc6w" target="_blank" rel="noopener noreferrer") videoconferencias. (2013, 28 de mayo). UTPL PRECURSORES DE LA ESCUELA CLÁSICA (ECONOMÍA)( HISTORIA DEL PENSAMIENTO ECONÓMICO)]. 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
